@@ -10,7 +10,7 @@ public class LoginTest {
 		
 		
 		
-		System.setProperty("webdriver.chrome.driver", "chromedriver");
+		System.setProperty("webdriver.chrome.driver", "chromedriver 3SS");
 		//create the obj of webdriver
 		
 		WebDriver driver =new ChromeDriver();
